@@ -1,0 +1,6 @@
+{
+  "name": "요구분석 도우미",
+  "description": "기업 교육 과정개발 담당자를 위한 체계적인 교육 요구분석 솔루션 (설문·인터뷰 정성·정량 갭 분석, Borich 요구도, 우선순위 매트릭스, 결과서 자동 생성)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
